@@ -1,5 +1,5 @@
 import css from './Notification.module.css'
-import VoteStats from '../VoteStats/VoteStats'
+
 
 
 export default function Notification() {
